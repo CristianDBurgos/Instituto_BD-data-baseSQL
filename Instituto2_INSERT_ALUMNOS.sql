@@ -1,0 +1,21 @@
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (1, 'Gonzalo', 'Carreras', '2021-03-01', '11111111');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (2, 'Cristian', 'Burgos', '2022-02-15', '22222222');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (3, 'Melisa', 'Calvo', '2022-02-14', '33333333');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (4, 'Melisa', 'Sosa', '2021-03-03', '44444444');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (5, 'Omar', 'Parra', '2021-03-03', '55555555');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (6, 'Camila', 'Luchini', '2021-02-18', '66666666');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (7, 'Sofia', 'Montero', '2022-02-16', '77777777');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (8, 'Federico', 'Consalvo', '2022-03-01', '88888888');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (9, 'Fátima', 'Montero', '2021-03-02', '99999999');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (10, 'Patricio', 'Domina', '2021-02-14', '10101010');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (11, 'Mayra', 'Bevacqua', '2021-03-02', '12121212');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (12, 'Leonardo', 'Dominguez', '2022-03-03', '13131313');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (13, 'Yanina', 'Bevacqua', '2022-03-02', '14141414');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (14, 'Luz', 'Tagliaferro', '2022-02-19', '15151515');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (15, 'Ezequiel', 'Ventimiglia', '2021-03-15', '16161616');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (16, 'Emilio', 'Maroa', '2021-02-10', '17171717');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (17, 'Esteban', 'Alcorta', '2021-02-11', '18181818');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (18, 'Lucía', 'Di Santi', '2021-02-11', '19191919');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (19, 'Ulises', 'Occhi', '2021-03-02', '20202020');
+INSERT INTO `instituto2`.`Alumnos` (`idAlumno`, `alumnoNombre`, `alumnoApellido`, `alumnoFechaDeIngreso`, `alumnoDNI`) VALUES (20, 'Chistian', 'Casas', '2021-02-10', '21212121');
+

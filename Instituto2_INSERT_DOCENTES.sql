@@ -1,0 +1,7 @@
+INSERT INTO `instituto2`.`Docentes` (`idDocente`, `docenteNombre`, `docenteApellido`, `docenteFechaDeRegistro`, `docenteDNI`) VALUES (DEFAULT, 'Claudia', 'López', '2000-02-02', '98989898');
+INSERT INTO `instituto2`.`Docentes` (`idDocente`, `docenteNombre`, `docenteApellido`, `docenteFechaDeRegistro`, `docenteDNI`) VALUES (DEFAULT, 'Mauricio', 'Becker', '2000-02-03', '97979797');
+INSERT INTO `instituto2`.`Docentes` (`idDocente`, `docenteNombre`, `docenteApellido`, `docenteFechaDeRegistro`, `docenteDNI`) VALUES (DEFAULT, 'Miguel', 'Landi', '2001-02-02', '96969696');
+INSERT INTO `instituto2`.`Docentes` (`idDocente`, `docenteNombre`, `docenteApellido`, `docenteFechaDeRegistro`, `docenteDNI`) VALUES (DEFAULT, 'Juan Cruz', 'Minning', '2005-02-02', '95959595');
+INSERT INTO `instituto2`.`Docentes` (`idDocente`, `docenteNombre`, `docenteApellido`, `docenteFechaDeRegistro`, `docenteDNI`) VALUES (DEFAULT, 'Alejandra', 'Torres', '2000-02-02', '94949494');
+INSERT INTO `instituto2`.`Docentes` (`idDocente`, `docenteNombre`, `docenteApellido`, `docenteFechaDeRegistro`, `docenteDNI`) VALUES (DEFAULT, 'Lucas', 'Polo', '2000-02-10', '93939393');
+INSERT INTO `instituto2`.`Docentes` (`idDocente`, `docenteNombre`, `docenteApellido`, `docenteFechaDeRegistro`, `docenteDNI`) VALUES (DEFAULT, 'Patricia', 'Blanco', '2015-02-02', '92929292');
